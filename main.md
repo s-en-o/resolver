@@ -55,3 +55,50 @@ Cloudflare DNS over IPv6 (anycast) with malware blocking
 sdns://AgMAAAAAAAAAFlsyNjA2OjQ3MDA6NDcwMDo6MTExMl0AGlsyNjA2OjQ3MDA6NDcwMDo6MTExMl06NDQzCi9kbnMtcXVlcnk
 sdns://AgMAAAAAAAAAFlsyNjA2OjQ3MDA6NDcwMDo6MTAwMl0AGlsyNjA2OjQ3MDA6NDcwMDo6MTAwMl06NDQzCi9kbnMtcXVlcnk
 
+## main-dnscry.pt-auckland-ipv4
+
+DNSCry.pt Auckland - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
+
+https://www.dnscry.pt
+
+sdns://AQcAAAAAAAAADjE4NS45OS4xMzMuMTEyIBWQZQSuMzmL_YANsdr26wFOHmJCYEtA2P2JI6w1-0ezGTIuZG5zY3J5cHQtY2VydC5kbnNjcnkucHQ
+
+## main-controld-uncensored
+
+ControlD Free DNS. Take CONTROL of your Internet. Block unwanted content, bypass geo-restrictions and be more productive. DoH protocol and No logging. - https://controld.com/free-dns
+
+This DNS unblocks censored domains from various countries.
+
+sdns://AgcAAAAAAAAACjc2Ljc2LjIuMTEAFGZyZWVkbnMuY29udHJvbGQuY29tCy91bmNlbnNvcmVk
+
+## main-controld-unfiltered
+
+ControlD Free DNS. Take CONTROL of your Internet. Block unwanted content, bypass geo-restrictions and be more productive. DoH protocol and No logging. - https://controld.com/free-dns
+
+This is a Unfiltered DNS, no DNS record blocking or manipulation here, if you want to block Malware, Ads & Tracking or Social Network domains, use the other ControlD DNS configs.
+
+sdns://AgcAAAAAAAAACjc2Ljc2LjIuMTEAFGZyZWVkbnMuY29udHJvbGQuY29tAy9wMA
+
+## main-deffer-dns.au
+
+DNSSEC/Non-logged/Uncensored in Sydney (AWS).
+Encrypted DNS Server image by jedisct1, maintaned by DeffeR.
+
+sdns://AQcAAAAAAAAADTUyLjY1LjIzNS4xMjkg5Q00RDDBkwx3fUaa0_etjz4iH3lLBOqsg95bYDmV07MdMi5kbnNjcnlwdC1jZXJ0LmRlZmZlci1kbnMuYXU
+
+## main-adguard-dns-unfiltered
+
+AdGuard public DNS servers without filters
+
+Warning: This server is incompatible with anonymization.
+
+sdns://AQcAAAAAAAAAEjk0LjE0MC4xNC4xNDA6NTQ0MyC16ETWuDo-PhJo62gfvqcN48X6aNvWiBQdvy7AZrLa-iUyLmRuc2NyeXB0LnVuZmlsdGVyZWQubnMxLmFkZ3VhcmQuY29t
+sdns://AQcAAAAAAAAAEjk0LjE0MC4xNC4xNDE6NTQ0MyC16ETWuDo-PhJo62gfvqcN48X6aNvWiBQdvy7AZrLa-iUyLmRuc2NyeXB0LnVuZmlsdGVyZWQubnMxLmFkZ3VhcmQuY29t
+
+
+## main-adguard-dns-unfiltered-doh
+
+AdGuard public DNS servers without filters (over DoH)
+
+sdns://AgcAAAAAAAAADTk0LjE0MC4xNC4xNDAgmjo09yfeubylEAPZzpw5-PJ92cUkKQHCurGkTmNaAhkNOTQuMTQwLjE0LjE0MAovZG5zLXF1ZXJ5
+sdns://AgcAAAAAAAAADTk0LjE0MC4xNC4xNDEgmjo09yfeubylEAPZzpw5-PJ92cUkKQHCurGkTmNaAhkNOTQuMTQwLjE0LjE0MQovZG5zLXF1ZXJ5
