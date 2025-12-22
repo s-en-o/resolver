@@ -102,3 +102,19 @@ AdGuard public DNS servers without filters (over DoH)
 
 sdns://AgcAAAAAAAAADTk0LjE0MC4xNC4xNDAgmjo09yfeubylEAPZzpw5-PJ92cUkKQHCurGkTmNaAhkNOTQuMTQwLjE0LjE0MAovZG5zLXF1ZXJ5
 sdns://AgcAAAAAAAAADTk0LjE0MC4xNC4xNDEgmjo09yfeubylEAPZzpw5-PJ92cUkKQHCurGkTmNaAhkNOTQuMTQwLjE0LjE0MQovZG5zLXF1ZXJ5
+
+## main-dnscry.pt-sydney02-ipv4
+
+DNSCry.pt Sydney 02 - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
+
+https://www.dnscry.pt
+
+sdns://AQcAAAAAAAAADTE5NS4xMTQuMTQuNzQgfD7v3z2SLbLGuO4Wo8-HYVxwRz44PitWMFgp81gvSjUZMi5kbnNjcnlwdC1jZXJ0LmRuc2NyeS5wdA
+
+## main-dnscry.pt-melbourne-ipv4
+
+DNSCry.pt Melbourne - DNSCrypt, no filter, no logs, DNSSEC support (IPv4 server)
+
+https://www.dnscry.pt
+
+sdns://AQcAAAAAAAAADjEwMy4xMDguMjI4LjE1ILAWh1FyQgZtjFxK9KuFzaJfUBQpjrxnlDNMaUiEo5UWGTIuZG5zY3J5cHQtY2VydC5kbnNjcnkucHQ
